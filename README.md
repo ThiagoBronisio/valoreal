@@ -15,22 +15,19 @@ Este é um projeto utilizando Next.js, Vite e Tailwind CSS. Siga as instruções
    npm install
 
 3. **Desenvolvimento**
-
-  Para iniciar o servidor de desenvolvimento, execute:
-    npm run dev
+     Para iniciar o servidor de desenvolvimento, execute:
+       npm run dev
 
 4. **Build**
-
-  Para criar uma versão de produção da aplicação, execute:
-    npm run build
+     Para criar uma versão de produção da aplicação, execute:
+       npm run build
 
 5. **Estrutura do Projeto**
-
-pages/: Contém as páginas do Next.js.
-
-components/: Contém os componentes React reutilizáveis.
-
-styles/: Contém os arquivos de estilos, incluindo Tailwind CSS.
+   pages/: Contém as páginas do Next.js.
+   
+   components/: Contém os componentes React reutilizáveis.
+   
+   styles/: Contém os arquivos de estilos, incluindo Tailwind CSS.
 
 
 
